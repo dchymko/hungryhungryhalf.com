@@ -20,6 +20,25 @@ contentDir = "content/en"
 # languageDirection = 'rtl' for Right-To-Left languages
 
 
+
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'Race Info'
+    pageRef = '/raceinfo'
+    weight = 20
+  [[menus.main]]
+    name = 'Results'
+    pageRef = '/results'
+    weight = 30
+
+
+
+
+
 [sitemap]
 changefreq = "monthly"
 priority = 0.5
