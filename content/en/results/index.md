@@ -1,7 +1,7 @@
 ---
 title: "Results"
-description: "Conratulations, you did the hard work, now you want to see the details after the race! Here they are below:"
-featured_image: '/images/finish.jpg'
+description: ""
+featured_image: '/images/medals.jpg'
 menu:
   main:
     weight: 1
