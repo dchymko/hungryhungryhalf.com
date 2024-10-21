@@ -15,13 +15,13 @@ Early-bird registration now available until March 31st, 2024
 
 Regular registration is open until May 25th, 2024
 
-[Register Now](https://www.events.runningroom.com/site/?raceId=18154)
+{{< button "https://www.events.runningroom.com/site/17750/the-hungry-hungry-half-marathon-2023/" >}}Register now{{< /button >}}
 
 We are always looking for prize donations, or volunteers! If you want to help out, please [get in touch with us.](mailto:hungryhungryhalfkelowna@gmail.com)
 
 ![](/images/runners.jpg)
 
-[Register now](https://www.events.runningroom.com/site/17750/the-hungry-hungry-half-marathon-2023/)
+{{< button "https://www.events.runningroom.com/site/17750/the-hungry-hungry-half-marathon-2023/" >}}Register now{{< /button >}}
 
 ## Thanks so much to our sponsors for making this year’s event happen!
 
@@ -31,16 +31,39 @@ We are always looking for prize donations, or volunteers! If you want to help ou
 
 # Our Sponsors
 
-![](/images/klogonowhitebackground.png)
+{{< rawhtml >}}
+<div class="row">
+  <div class="col3">
+    {{< figure src="/images/klogonowhitebackground.png" sizes="(min-width: 720px) 240px, (min-width: 480px) 360px, 100vw" caption="" alt="" >}}
+  </div>
+  <div class="col3">
+    {{< figure src="/images/kelownanow.jpg" sizes="(min-width: 720px) 240px, (min-width: 480px) 360px, 100vw" caption="" alt="">}}
+  </div>
+  <div class="col3">
+    {{< figure src="/images/carsonphotographytextlogolarge.jpg" sizes="(min-width: 720px) 240px, (min-width: 480px) 360px, 100vw" caption="" alt="" >}}
+  </div>
+</div>
+<div class="row">
+  <div class="col3">
+    {{< figure src="/images/cofb-tag-yellow-and-orange.jpg" sizes="(min-width: 720px) 240px, (min-width: 480px) 360px, 100vw" caption="" alt="" >}}
+  </div>
+  <div class="col3">
+    {{< figure src="/images/otf.jpg" sizes="(min-width: 720px) 240px, (min-width: 480px) 360px, 100vw" caption="" alt="">}}
+  </div>
+  <div class="col3">
+    {{< figure src="/images/novproject.jpg" sizes="(min-width: 720px) 240px, (min-width: 480px) 360px, 100vw" caption="" alt="" >}}
+  </div>
+</div>
+<div class="row">
+  <div class="col3">
 
-![](/images/kelownanow.jpg)
+  </div>
+  <div class="col3">
+    {{< figure src="/images/twp-logo-apr2013-icon-800pxw.png" sizes="(min-width: 720px) 240px, (min-width: 480px) 360px, 100vw" caption="" alt="">}}
+  </div>
+  <div class="col3">
 
-![](/images/carsonphotographytextlogolarge.jpg)
+  </div>
+</div>
+{{< /rawhtml >}}
 
-![](/images/cofb-tag-yellow-and-orange.jpg)
-
-![](/images/otf.jpg)
-
-![](/images/novproject.jpg)
-
-![](/images/twp-logo-apr2013-icon-800pxw.png)

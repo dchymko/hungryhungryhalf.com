@@ -6,9 +6,11 @@ date: 2017-03-02T12:00:00-05:00
 
 ### Race Kit Pickup
 
-*   Race Packages are available day of the event.
-*   Please arrive 15 minutes prior to your heat start (event coordinator will contact you with your assigned time) to receive your race package.
-*   A non perishable food bank donation is required to receive your race day package.
+Race Packages are available day of the event.
+
+Please arrive 15 minutes prior to your heat start (event coordinator will contact you with your assigned time) to receive your race package.
+
+A non perishable food bank donation is required to receive your race day package.
 
 ### Race Times
 
